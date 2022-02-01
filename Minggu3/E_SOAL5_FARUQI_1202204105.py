@@ -16,6 +16,7 @@ for i in range(round):
         continue
     else:
         boi_win += 1
+        
 if tami_win > boi_win:
     print("Selamat tami menang sebanyak",tami_win,"ronde")
 elif tami_win == boi_win:

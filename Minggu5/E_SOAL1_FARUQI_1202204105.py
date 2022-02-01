@@ -1,5 +1,6 @@
 print("\t\t Data Diri Mahasiswa(I) ")
 
+# Map / Dictionary
 data = {
     "name": "Muhammad Hafeezi Faruqi",
     "nim": "1202204105",

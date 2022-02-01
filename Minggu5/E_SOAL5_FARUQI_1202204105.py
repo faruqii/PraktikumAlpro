@@ -36,8 +36,11 @@ while True:
     elif choices == 2:
         tokens = input("Masukkan Token: ")
         if tokens == "d4spr0":
-            for i in range(len(database)):
-                print(database[i] + " memilih " + voting[i])
+            if len(database) == 0:
+                print("Tidak ada data!")
+            else:
+                for i in range(len(database)):
+                    print(database[i] + " memilih " + voting[i])
         else:
             print("Sorry Wrong Token dude!")
     elif choices == 0:

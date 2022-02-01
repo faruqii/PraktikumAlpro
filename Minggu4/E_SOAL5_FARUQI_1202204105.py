@@ -9,7 +9,6 @@ class User:
             print('Welcome to my app!!')
         elif user != "alpro" and pw != "daspro":
             print('Login Failure, Wrong Password')
-           
     def logout(self):
         print("You're successfully logged out. Thank you for using me ")
 
@@ -32,7 +31,6 @@ if __name__ == "__main__":
         elif u_input == 2 and Status == True:
             app.logout()
             break
-        
         else:
             print("!!No Option!!")
             break

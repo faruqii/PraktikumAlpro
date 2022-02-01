@@ -11,4 +11,3 @@ elif color1 == "merah" and color2 == "hijau":
     print(f"Campuran {color1} dan {color2} menghasilkan warna kuning")
 else:
     print("PROGRAM MIX COLOR ERROR.\nMix hanya bisa untuk warna merah/hijau/biru")
-   
