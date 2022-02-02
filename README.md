@@ -1,14 +1,11 @@
 # Algorithm and Programming
 ```txt
 First Year Information Systems Student Algorithm and Programming Practicum 
+in this practicum we learn about python fundamental
 ```
 ### Tools
 - Python3
-
-```txt
-in this practicum we learn about python fundamental
-```
-
+- 
 # Module
 - Modul 1 (variable and datatypes)
 - Modul 2 (Conditional if else)
